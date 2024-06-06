@@ -1,6 +1,8 @@
 ### Description:
 The Food Android App is a mobile application designed to facilitate food ordering and delivery. Users can browse through various categories of food items, add them to their cart, and proceed to checkout. The app utilizes Firebase as a backend for seamless data management and authentication. Preferences are employed to store app data locally for enhanced user experience.
 
+### Live app -> https://appetize.io/app/vv2hnayfk7pz3hjzchazi5ycpy?device=pixel7&osVersion=13.0
+
 ### Features:
 #### Category-based Food Selection: 
 Users can explore a variety of food categories and choose from different types of food items within each category.
